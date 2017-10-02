@@ -1,7 +1,7 @@
 # Test
 
 ### A repository
-> This repository is for students
+> This repository is for students.
 - Main
 
 '''
